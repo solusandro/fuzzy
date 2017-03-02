@@ -11,5 +11,11 @@ public class Test {
 		System.out.println("1");
 
 	}
+	
+	public void aaa() {
+		
+		System.out.println("2");
+		
+	}
 
 }
